@@ -1,2 +1,4 @@
 # introducing-me
-To start with GitHub
+Hey There!
+
+Pradip has just started GitHub. Says Hello World!
